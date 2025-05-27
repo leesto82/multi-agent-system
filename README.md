@@ -23,8 +23,8 @@ llm.model_name=hosted_vllm/DeepSeek-R1-108
 
 # API Key for the LLM.
 # For Gemini models, this is your Google AI Studio API Key.
-# For your self-hosted model, set to: sk-pcd6da59ATz77s4O30C23dC5Fc574320B37f8aA21f58637d
-llm.api_key=sk-pcd6da59ATz77s4O30C23dC5Fc574320B37f8aA21f58637d
+# For your self-hosted model, set to: sk-1
+llm.api_key=sk-1
 
 # API Base URL for the LLM.
 # For your self-hosted model, set to: https://oneapi.rnd.huawei.com/v1
